@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sauce Labs Automation]" verbose="0">
+  <test name="Sauce Labs Automation suite">
+    <classes>
+      <class name="com.saucelabs.tests.LoginTest"/>
+      <class name="com.saucelabs.tests.OrderTest"/>
+    </classes>
+  </test> <!-- Sauce Labs Automation suite -->
+</suite> <!-- Failed suite [Sauce Labs Automation] -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Petstore API Automation]" verbose="0">
+  <test name="Petstore Automation suite">
+    <classes>
+      <class name="com.petstore.tests.CreateUserTests"/>
+      <class name="com.petstore.tests.GetUserTests"/>
+      <class name="com.petstore.tests.DeleteUserTests"/>
+    </classes>
+  </test> <!-- Petstore Automation suite -->
+</suite> <!-- Failed suite [Petstore API Automation] -->

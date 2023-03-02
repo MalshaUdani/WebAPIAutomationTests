@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sauce Labs Automation" verbose="1" >
+    <test name="Sauce Labs Automation suite" >
+        <classes>
+            <class name="com.saucelabs.tests.LoginTest"/>
+            <class name="com.saucelabs.tests.OrderTest"/>
+        </classes>
+    </test>
+</suite>

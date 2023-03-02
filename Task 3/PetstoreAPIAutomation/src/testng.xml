@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Petstore API Automation" verbose="1" >
+    <test name="Petstore Automation suite" >
+        <classes>
+            <class name="com.petstore.tests.CreateUserTests"/>
+            <class name="com.petstore.tests.GetUserTests"/>
+            <class name="com.petstore.tests.DeleteUserTests"/>
+        </classes>
+    </test>
+</suite>
